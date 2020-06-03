@@ -1,0 +1,17 @@
+[22-Nov-2019 01:36:38 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 13
+[22-Nov-2019 01:42:10 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 13
+[22-Nov-2019 01:45:17 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 13
+[22-Nov-2019 01:46:07 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 13
+[22-Nov-2019 03:06:49 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 16
+[22-Nov-2019 03:09:16 America/New_York] PHP Notice:  Undefined index: name in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 11
+[22-Nov-2019 03:09:16 America/New_York] PHP Notice:  Undefined index: email in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 12
+[22-Nov-2019 03:09:16 America/New_York] PHP Notice:  Undefined index: phone in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 13
+[22-Nov-2019 03:56:48 America/New_York] PHP Notice:  Undefined index: email in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 11
+[22-Nov-2019 03:56:48 America/New_York] PHP Notice:  Undefined index: name in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 12
+[22-Nov-2019 03:56:48 America/New_York] PHP Notice:  Undefined index: phone in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 13
+[22-Nov-2019 04:07:29 America/New_York] PHP Notice:  Undefined index: email in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 11
+[22-Nov-2019 04:07:29 America/New_York] PHP Notice:  Undefined index: name in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 12
+[22-Nov-2019 04:07:29 America/New_York] PHP Notice:  Undefined index: phone in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 13
+[22-Nov-2019 04:09:00 America/New_York] PHP Notice:  Undefined index: email in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 11
+[22-Nov-2019 04:09:00 America/New_York] PHP Notice:  Undefined index: name in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 12
+[22-Nov-2019 04:09:00 America/New_York] PHP Notice:  Undefined index: phone in /home/mkcclbjd/public_html/wp-content/themes/ittrace/inc/mail.php on line 13

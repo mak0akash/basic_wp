@@ -1,0 +1,14 @@
+.body-main{
+	background: url(img/canvas.jpg) fixed;
+	padding: 35px;
+}
+.bg-img{
+	background: url(img/canvas.jpg) fixed;
+}
+.bg-blur{
+	background: rgba(250,250,250, .7);
+}
+.body-wrapper{
+	background: white;
+	border-radius: 5px;
+}
